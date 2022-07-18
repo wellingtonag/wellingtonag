@@ -1,4 +1,4 @@
-![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png) Hello, World! 
+![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png) # Hello, World!
 <div align="center">
   <a href="https://github.com/wellingtonag">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellingtonag&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,8 +12,8 @@
   <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Well-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Well-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  /*<img align="right" alt="Well-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/998370207213043722/998370208722997250/998370856445157406?width=676&height=676">
-</div>*/
+  <img align="right" alt="Well-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998370208722997250/998370855836975306/coffee.gif?width=676&height=676">
+</div>
   
   ##
  
