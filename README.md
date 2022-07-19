@@ -12,7 +12,7 @@
   <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Well-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Well-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Well-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/998370208722997250/998370855836975306/coffee.gif?width=676&height=676">
+  <img align="right" alt="Well-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/1230fca05585499fa662315c25aebf9d1ac9c72a00c47ed8fed2421c97418b3e/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646576706f73742f696d6167652f66657463682f732d2d3373526c393931582d2d2f68747470733a2f2f6769746875622e636f6d2f6e70656e7472656c2f6f63746f636c697070792f626c6f622f6d61737465722f676966732f74656e7461636c65732e67696625334672617725334474727565?width=676&height=676">
 </div>
   
   ##
