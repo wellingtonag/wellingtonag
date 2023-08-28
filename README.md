@@ -1,36 +1,5 @@
-<style>
-  .top{
-    display:flex;
-    justify-content: space-between;
-    
-    align-items:center;
-  }
-  
-  .box{
-    height:180px;
-  }
-  .box2{
-    height:180px;
-  }
 
-  .icons-lang{
-    display: inline_block;
-
-  }
-  @media(max-width:900px){
-    .box{
-      height: 160px;
-      padding:10px;
-    }
-    .box2{
-      height: 180px;
-
-    }
-    
-  }
-
-</style>
-<div class="top">
+<div style="display:flex; justify-content:space-between; align-itens:center">
 
 ![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png) # Hello, World!
 
@@ -39,10 +8,10 @@
 </div>
 <div align="center">
   <a href="https://github.com/wellingtonag">
-  <img class="box" style="border-radius:5px;" src="https://github-readme-stats.vercel.app/api?username=wellingtonag&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img  class="box2" style="border-radius:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonag&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180px" style="border-radius:5px;" src="https://github-readme-stats.vercel.app/api?username=wellingtonag&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  height="180px" style="border-radius:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonag&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div class="icons-lang">
+<div >
   <img align="center" alt="Well-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Well-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Well-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
