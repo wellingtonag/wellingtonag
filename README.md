@@ -23,7 +23,7 @@
   <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Well-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Well-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="right" alt="Well-pic" height="130px" style="border-radius:5px; margin-right:35px;" src="coffee.gif">
+  <img align="right" alt="Well-pic" height="130px" style="border-radius:5px; margin-right:35px; padding-top:10px; padding-bottom:10px" src="coffee.gif">
 </div>
 
   ##
