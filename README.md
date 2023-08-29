@@ -4,20 +4,26 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=4000&color=33C300&width=435&lines=👋+%23+Hello+world!!!)](https://git.io/typing-svg)</span>
 <img align="right" height="20px" src="https://visitor-badge.laobi.icu/badge?page_id=wellingtonag.visitor-badge&left_text=Visitas"/>
 </div>
+
+  ##
+
 <div align="center">
   <a href="https://github.com/wellingtonag">
   <img height="180px" style="border-radius:5px; margin:0; padding:0;" src="https://github-readme-stats.vercel.app/api?username=wellingtonag&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180px" style="border-radius:5px; margin:0; padding:0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonag&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+  ##
+
 <div><br/>
   <img align="center" alt="Well-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Well-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Well-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Well-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Well-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Well-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="right" alt="Well-pic" height="130px" style="border-radius:5px; margin-right:30px;" src="coffee.gif">
+  <img align="center" alt="Well-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Well-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="right" alt="Well-pic" height="130px" style="border-radius:5px; margin-right:35px;" src="coffee.gif">
 </div>
 
   ##
