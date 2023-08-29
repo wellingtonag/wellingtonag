@@ -19,7 +19,7 @@
   <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Well-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Well-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="right" alt="Well-pic" height="200" style="border-radius:2px; margin-top: 50px " src="coffee.gif">
+  <img align="right" alt="Well-pic" height="150px" style="border-radius:5px; margin-right:20px; padding-top:25px" src="coffee.gif">
 </div>
 
   ##
