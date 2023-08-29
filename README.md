@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=4000&color=33C300&width=435&lines=👋+%23+Hello+world!!!)](https://git.io/typing-svg)</span>
 
-<img align="right" height="20px" src="https://visitor-badge.laobi.icu/badge?page_id=wellingtonag.visitor-badge&left_text=Visitas"/>
+<img align="right" height="20px" style="padding-bottom:20px" src="https://visitor-badge.laobi.icu/badge?page_id=wellingtonag.visitor-badge&left_text=Visitas"/>
 </div>
 <br/>
 <div align="center">
