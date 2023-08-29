@@ -1,11 +1,11 @@
 
-<div style="box-sizing: border-box; display:flex; justify-content:space-between;">
+<div style="box-sizing: border-box; display: block; margin-top: 10px; margin-bottom: 20px; justify-content:space-between;">
 
-![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png) <span># Hello, World!</span>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=4000&color=33C300&width=435&lines=👋+%23+Hello+world!!!)](https://git.io/typing-svg)</span>
 
 <img align="right" height="20px" src="https://visitor-badge.laobi.icu/badge?page_id=wellingtonag.visitor-badge&left_text=Visitas"/>
-
 </div>
+<br/>
 <div align="center">
   <a href="https://github.com/wellingtonag">
   <img height="180px" style="border-radius:5px; margin:0; padding:0;" src="https://github-readme-stats.vercel.app/api?username=wellingtonag&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
