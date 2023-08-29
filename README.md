@@ -6,12 +6,12 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wellingtonag.wellingtonag)
 
 </div>
-<div align="center">
+<div align="center" style="max-width:100%; margin:10px 0 30px 0; padding:0">
   <a href="https://github.com/wellingtonag">
-  <img height="180px" style="border-radius:5px;" src="https://github-readme-stats.vercel.app/api?username=wellingtonag&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img  height="180px" style="border-radius:5px; margin-bottom:30px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonag&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180px" style="border-radius:5px; margin:0; padding:0;" src="https://github-readme-stats.vercel.app/api?username=wellingtonag&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180px" style="border-radius:5px; margin:0; padding:0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonag&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div >
+<div style="margin:10px 0 30px 0; padding:0">
   <img align="center" alt="Well-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Well-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Well-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -19,7 +19,7 @@
   <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Well-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Well-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="right" alt="Well-pic" height="150px" style="border-radius:5px; margin-right:30px; padding-top:25px" src="coffee.gif">
+  <img align="right" alt="Well-pic" height="150px" style="border-radius:5px; margin-right:40px;" src="coffee.gif">
 </div>
 
   ##
