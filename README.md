@@ -1,19 +1,19 @@
-
 <div style="box-sizing: border-box; display: flex; margin-bottom:20px; justify-content:space-between;">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=4000&color=33C300&width=435&lines=👋+%23+Hello+world!!!)](https://git.io/typing-svg)</span>
 <img align="right" height="20px" src="https://visitor-badge.laobi.icu/badge?page_id=wellingtonag.visitor-badge&left_text=Visitas"/>
+
 </div>
 
-  ##
+##
 
 <div align="center">
-  <a href="https://github.com/wellingtonag">
+
   <img height="180px" style="border-radius:5px; margin:0; padding:0;" src="https://github-readme-stats.vercel.app/api?username=wellingtonag&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180px" style="border-radius:5px; margin:0; padding:0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonag&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  ##
+##
 
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" >
@@ -33,11 +33,11 @@
   <a href="https://nextjs.org/" target="_blank">
     <img align="center" alt="Well-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.Js Icon"/></a>
     <figure>
-      <img align="right" alt="Jim Carrey drinking coffee" height="130px" style="border-radius:5px; margin-right:35px; padding-top:10px; padding-bottom:10px" src="coffee.gif" />
+      <img align="right" src="./coffee.gif" height="130px" vspace="10px" hspace="10px" alt="Jim Carrey drinking coffee" />
     </figure>
 </div>
 
-  ##
+##
 
  <div > 
   <a href="https://instagram.com/wellingtonagar" target="_blank"><img height="30px" width="120px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -50,42 +50,47 @@
  <details open="" style="box-sizing: border-box; display: block; margin-top: 0px; margin-bottom: 16px;">
         <summary style="box-sizing: border-box; display: list-item; cursor: pointer; font-weight:bold;">More about me</summary>
 
-  ```js
-
+```js
 const tom = {
-    personal: {
-        fullName: 'Wellington Garcia',
-        birthDate: "December 78 - but I'm young at heart",
-        pronouns: 'he' || 'him',
-        interests: ['music', 'electric guitar', 'language learning', 'musical keyboard', 'making my own pizza'],
-        motivation: [
-            'Making money doing what I love to do.',
-            'Transforming people and the world through tech',
-        ],
+  personal: {
+    fullName: "Wellington Garcia",
+    birthDate: "December 78 - but I'm young at heart",
+    pronouns: "he" || "him",
+    interests: [
+      "music",
+      "electric guitar",
+      "language learning",
+      "musical keyboard",
+      "making my own pizza",
+    ],
+    motivation: [
+      "Making money doing what I love to do.",
+      "Transforming people and the world through tech",
+    ],
+  },
+  technical: {
+    technologies: {
+      frontEnd: {
+        libraries: ["React"],
+        frameworks: ["NextJS"],
+        HTML: ["HTML5", "Semantic HTML"],
+        CSS: ["Sass", "styled-components", "Bootstrap"],
+      },
+      backEnd: {
+        libraries: ["Express"],
+        frameworks: ["Node.js"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        languages: ["JavaScript"],
+      },
+      mobile: {
+        libraries: ["React Native"],
+        frameworks: ["Expo"],
+        databases: ["SQLite", "Firebase"],
+        languages: ["JavaScript", "Dart"],
+      },
+      methodologies: ["Scrum"],
     },
-    technical: {
-        technologies: {
-            frontEnd: {
-                libraries: ['React'],
-                frameworks: ['NextJS'],
-                HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['Sass', 'styled-components', 'Bootstrap'],
-            },
-            backEnd: {
-                libraries: ['Express'],
-                frameworks: ['Node.js'],
-                databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
-                languages: ['JavaScript'],
-            },
-            mobile: {
-                libraries: ['React Native'], // Adicionar bibliotecas para desenvolvimento mobile
-                frameworks: ['Expo'], // Adicionar frameworks para desenvolvimento mobile
-                databases: ['SQLite', 'Firebase'], // Adicionar bancos de dados para desenvolvimento mobile
-                languages: ['JavaScript', 'Dart'], // Adicionar linguagens para desenvolvimento mobile
-            },
-            methodologies: ['Scrum'],
-        },
-    },
+  },
 };
 
 // Documentação atualizada do objeto 'tom':
@@ -99,10 +104,11 @@ const tom = {
 //   - Na subseção 'mobile', é listada a biblioteca (React Native) e o framework (Expo) para desenvolvimento mobile,
 //     além de bancos de dados (SQLite, Firebase) e linguagem (JavaScript) para desenvolvimento mobile.
 //   - Na subseção 'methodologies', é mencionado o uso da metodologia/framework Scrum.
-  ```
+```
+
   </details>
 
-  ##
+##
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
