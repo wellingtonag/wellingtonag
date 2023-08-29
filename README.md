@@ -1,7 +1,7 @@
 
-<div style="display:flex; justify-content:space-between; align-itens:center">
+<div style="box-sizing: border-box; display:flex; justify-content:space-between;">
 
-![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png) # Hello, World!
+![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png) <span># Hello, World!</span>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wellingtonag.wellingtonag)
 
@@ -24,7 +24,7 @@
 
   ##
 
- <div> 
+ <div > 
   <a href="https://instagram.com/wellingtonagar" target="_blank"><img height="30px" width="120px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://discord.gg/Nt2dacxV" target="_blank"><img height="30px" width="120px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wellingtonag@gmail.com"><img height="30px" width="120px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
