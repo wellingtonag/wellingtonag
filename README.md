@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/wellingtonag">
   <img height="180px" style="border-radius:5px;" src="https://github-readme-stats.vercel.app/api?username=wellingtonag&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img  height="180px" style="border-radius:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonag&layout=compact&langs_count=7&theme=dark"/>
+  <img  height="180px" style="border-radius:5px; margin-bottom:30px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonag&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div >
   <img align="center" alt="Well-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
