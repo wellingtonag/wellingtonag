@@ -3,7 +3,7 @@
 
 ![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png) <span># Hello, World!</span>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=wellingtonag.wellingtonag)
+<img align="right" height="20px" src="https://visitor-badge.laobi.icu/badge?page_id=wellingtonag.visitor-badge&left_text=Visitas"/>
 
 </div>
 <div align="center">
