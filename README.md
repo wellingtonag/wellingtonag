@@ -55,7 +55,7 @@
 const tom = {
     personal: {
         fullName: 'Wellington Garcia',
-        birthDate: '1978-12-28',
+        birthDate: "December 78 - but I'm young at heart",
         pronouns: 'he' || 'him',
         interests: ['music', 'electric guitar', 'language learning', 'musical keyboard', 'making my own pizza'],
         motivation: [
@@ -90,7 +90,7 @@ const tom = {
 
 // Documentação atualizada do objeto 'tom':
 // - O objeto 'tom' contém informações pessoais e técnicas sobre uma pessoa chamada Wellington Garcia.
-// - Na seção 'personal', são fornecidas informações pessoais como nome completo, data de nascimento, pronomes, interesses e motivações.
+// - Na seção 'personal', são fornecidas informações pessoais como nome, data de nascimento, pronomes, interesses e motivações.
 // - Na seção 'technical', são fornecidas informações técnicas sobre as tecnologias que Wellington está familiarizado.
 //   - Na subseção 'technologies', são listadas tecnologias de front-end, back-end e mobile que ele conhece.
 //   - Na subseção 'frontEnd', é listada a biblioteca (React) e o framework (NextJS) de front-end.
