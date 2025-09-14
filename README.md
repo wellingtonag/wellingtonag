@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RzMHp3d2R6eG9pMXZ3d2s3aTBrZzZ3eW5waW9hZG41Z3M3dWc5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WwR5u1sM0dCg87vS7P/giphy.gif" width="100px" alt="A smiling coffee cup"/>
-  <h1>Olá, sou o Wellington!</h1>
-  <p>Desenvolvedor apaixonado por tecnologia e inovação.</p>
+  <figure>
+        <img align="right" src="./coffee.gif" height="130px" vspace="10px" hspace="10px" alt="Jim Carrey drinking coffee" />
+      </figure>
+  <h1>👋 Olá, sou o Wellington!</h1>
+  <>
+  Desenvolvedor apaixonado por tecnologia,  inovação e café... Também atuo como **professor e coordenador** do ensino médio técnico em informática na ETEC.
+</p>
 </div>
 
 ---
@@ -61,6 +65,11 @@ const wellington = {
     metodologias: ["Scrum"],
   },
   objetivo: "Transformar o mundo através da tecnologia, com criatividade e paixão.",
+  experienciaProfissional: {
+    cargo: "Professor e Coordenador",
+    instituicao: "ETEC",
+    atuacao: "Ensino técnico em informática para web e desenvolvimento de sistemas",
+  },
 };
 </details>
 
