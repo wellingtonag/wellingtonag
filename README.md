@@ -3,7 +3,7 @@
         <img align="right" src="./coffee.gif" height="130px" vspace="10px" hspace="10px" alt="Jim Carrey drinking coffee" />
       </figure>
   <h1>👋 Olá, sou o Wellington!</h1>
-  <>
+  <p>
   Desenvolvedor apaixonado por tecnologia,  inovação e café... Também atuo como **professor e coordenador** do ensino médio técnico em informática na ETEC.
 </p>
 </div>
@@ -71,6 +71,7 @@ const wellington = {
     atuacao: "Ensino técnico em informática para web e desenvolvimento de sistemas",
   },
 };
+```
 </details>
 
 <div align="center">
